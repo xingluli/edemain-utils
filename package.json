@@ -1,0 +1,11 @@
+{
+  "name": "edemain-utils",
+  "version": "1.0.0",
+  "description": "一个npm测试工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edemain",
+  "license": "ISC"
+}
